@@ -1,4 +1,0 @@
-target 'myFoodTracker' do
-platform:ios,'14.0'
-pod 'FMDB'
-end
